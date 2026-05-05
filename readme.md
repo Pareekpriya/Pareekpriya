@@ -31,7 +31,7 @@
 
 ---
 
-### 📊 **My GitHub Journey**
+### 📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pareekpriya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=53B1F9&icon_color=53B1F9" width="45%" />
