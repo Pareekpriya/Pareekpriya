@@ -33,5 +33,9 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pareekpriya&show_icons=true&theme=radical" alt="Priya's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pareekpriya&show_icons=true&theme=react&rank_icon=github&count_private=true&cache_seconds=1800" alt="Priya's GitHub Stats" width="400" />
+  
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pareekpriya&layout=compact&theme=react&hide_border=false&cache_seconds=1800" alt="Priya's Top Languages" width="400" />
 </p>
